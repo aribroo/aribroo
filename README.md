@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I'm Rifki Ari, an aspiring programmer with a great passion for learning in the world of software development.
+🔭 I'm currently working on building backend systems using Node.js, GO and Java<br>👯I'm looking to collaborate on projects that involve backend development, especially in creating scalable systems, integrating databases, or improving data flow and architecture<br>🤝I'm looking for help with exploring new ways to enhance system security and performance, and improving my skills in advanced Redis caching techniques and Spring Boot<br>🌱I'm currently learning Spring Boot, advanced TypeScript features, and best practices for handling complex database migrations in projects<br>⚡fun fact I enjoy diving deep into code refactoring to make systems more efficient, and I'm always on the lookout for new tools that can improve the developer experience!<br>
 
 
 ## 🌐 Socials:
